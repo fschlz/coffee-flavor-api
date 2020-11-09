@@ -1,6 +1,6 @@
 # Coffee Flavor API
 
-This is a simple API that provides the coffee flavors that have been defined by the Specialty Coffee Association (SCA) in their ["The Coffee Taster's Flavor Wheel"](https://sca.coffee/research/coffee-tasters-flavor-wheel).
+This is a simple JSON API that only runs locallyon your machine and provides the coffee flavors that have been defined by the Specialty Coffee Association (SCA) in their ["The Coffee Taster's Flavor Wheel"](https://sca.coffee/research/coffee-tasters-flavor-wheel).
 
 # Usage
 
