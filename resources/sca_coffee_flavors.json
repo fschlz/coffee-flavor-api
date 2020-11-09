@@ -1,0 +1,71 @@
+{
+    "fruity": {
+        "berry": ["blackberry", "blueberry", "strawberry", "raspberry"],
+        "dried fruit": ["raisin", "prune"],
+        "other fruit": [
+            "coconut", "cherry", "pomegranate", "pinapple",
+            "grape", "apple", "peach", "pear"
+        ],
+        "citrus fruit": ["grapefruit", "orange", "lemon", "lime"]
+    },
+
+    "sour/fermented": {
+        "sour": [
+            "sour aromatic", "acetic acid", "butyric acid",
+            "isovaleric acid", "citric acid", "malic acid"
+        ],
+        "alcohol fermented": ["winey", "whiskey", "overripe", "fermented"]
+    },
+
+    "green/vegetative": {
+        "olive oil": ["olive oil"],
+        "raw": ["raw"],
+        "green vegetative": [
+            "under-ripe", "peapod", "fresh", "dark green",
+            "vegetative", "hay-like", "herb-like"
+        ],
+        "beany": ["beany"]
+        },
+
+    "other": {
+        "chemical": [
+            "rubber", "skunky", "petroleum",
+            "medicinal", "salty", "bitter"
+        ],
+        "papery/musty": [
+            "phenolic", "meaty/brothy", "animalic", "musty/earthy",
+            "musty/dusty", "moldy/damp", "woody", "papery", "stale"
+        ]
+    },
+
+    "roasted": {
+        "cereal": ["malt", "grain"],
+        "burnt": ["brown roast", "smoky", "ashy", "acrid"],
+        "tobacco": ["tobacco"],
+        "pipe tobacco": ["pipe tobacco"]
+    },
+
+    "spices": {
+        "brown spice": ["clove", "cinnamon", "nutmeg", "anise"],
+        "pepper": ["pepper"],
+        "pungent": ["pungent"]
+    },
+
+    "nutty/cocoa": {
+        "cocoa": ["dark chocolate", "chocolate"],
+        "nutty": ["hazelnut", "peanuts", "almonds"]
+    },
+
+    "sweet": {
+        "brown sugar": ["molasses", "caramelized", "maple syrup", "honey"],
+        "vanilla": ["vanilla"],
+        "vanillin": ["vanillin"],
+        "overall sweet": ["overall sweet"],
+        "sweet aromatics": ["sweet aromatics"]
+    },
+
+    "floral": {
+        "black tea": ["black tea"],
+        "floral": ["chamomile", "rose", "jasmine"]
+        }
+}
